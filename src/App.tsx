@@ -4,6 +4,8 @@ import './App.css';
 import { Button } from '@mui/material';
 import ImageList from './ImageList/ImageList';
 import Accordion from './Accordion/Accordion';
+import Card from './Card/Card';
+
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
 <ImageList />
 <br></br>
 <Accordion />
+<br></br>
+<Card />
 
 
    </div>
